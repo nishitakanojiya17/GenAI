@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community 
+pypdf   # used to read the pdf 
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
+typesense
+langchain_openai
+langgraph
